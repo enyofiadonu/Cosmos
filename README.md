@@ -2,7 +2,7 @@
 Welcome All Amateur Astronomers!!
 
 This data base is a simple, easy to use resource for individuals looking to get started looking at the Cosmos.
-It contains 2 comprehensive data tables: one containing information about exoplanets, and the other containing information about stars with comfirmed.
+It contains 2 comprehensive data tables: one containing information about exoplanets, and the other containing information about stars with comfirmed planets.
 The data should be uploaded to an SQL server, and here is some information about the tables:
 
 
