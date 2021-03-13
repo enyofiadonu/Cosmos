@@ -7,6 +7,7 @@ The data should be uploaded to an SQL server, and here is some information about
 
 
 exoplanets (
+
 	planet_name varchar, (the planets name)
 	planet_status varchar, (whether it has been confirmed)
 	mass decimal, (mass in Jovian units)
@@ -20,6 +21,7 @@ exoplanets (
 );
 
 host_stars (
+
 	star_name varchar NOT NULL (the stars name),
 	radial_ascension varchar NOT NULL,
 	declination varchar (can us declination and radial_ascension to find the exact spot the star is in the sky),
