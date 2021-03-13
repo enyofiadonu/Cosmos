@@ -1,0 +1,558 @@
+﻿Star,Constellation,Right,Declination,Apparent,Distance (ly),Spectral,Mass,Temperature (K),Age,Confirmed,Notes
+,,ascension,,magnitude,,type,(M☉),,(Gyr),(unconfirmed),
+,,,,,,,,,,planets,
+Sun,–,-,-,−26.74,1.6 × 10−5,G2V,1,5778,4.572,8,
+Proxima Centauri,Centaurus,14h 29m 42.94853s,62° 40′ 46.1631″,15.6,4.244,M5.5Ve,0.122,3042,4.85,2 (1),-
+Wolf 359,Leo,10h 56m 28.99s,07° 00′ 52.0″,7.1,7.86,M6.5Ve,0.09,2800,0.225,2,-
+Lacaille 9352,Piscis Austrinus,23h 05m 52.04s,−35° 51′ 11.05″,7.34,10.721,M0.5V,0.486,3688±86,4.57,2 (1),-
+Luyten's Star,Canis Minor,07h 27m 24.4991s,05° 13′ 32.827″,9.872,11.2,M3.5V,0.26,3150,unknown,2 (2),Stellar activity level and rotational rate suggest an age higher than 8 Gyr.
+Struve 2398 B,Draco,00h 18m 22.8850s,44° 01′ 22.6373″,9.7,11.39,M3.5V,0.248,3345,2.4,2,-
+Groombridge 34 A,Andromeda,00h 18m 22.8850s,44° 01′ 22.6373″,8.119,11.62,M1.4V,0.38,3607,3.04,2,-
+YZ Ceti,Cetus,01h 12m 30.64s,−16° 59′ 56.3″,12.07,11.74,M4.5V,0.13,3056,4,3 (1),-
+Tau Ceti,Cetus,01h 44m 05.13s,−15° 56′ 22.4″,3.49,11.905,G8V,0.783,5344,5.8,4 (4),"Were planets b, c, d, and ""i"" confirmed, would have a total of 8 planets."
+Gliese 1061,Horologium,03h 35m 59.69s,−44° 30′ 45.3″,13.03,12.04,M5.5V,0.113,2953,unknown,3,-
+Teegarden's Star,Aries,02h 53m 0.085s,16° 52′ 53.3″,15.13,12.58,M7.0V,0.08,2637,8,2,-
+Kapteyn's Star,Pictor,05h 11m 50s,−45° 02′ 30″,8.853,12.76,sdM1,0.274,3550,11,2,-
+Gliese 876,Aquarius,22h 53m 16.73s,−14° 15′ 49.3″,10.17,15.25,M4V,0.334,3348,4.893,4,-
+Gliese 229 A,Lepus,06h 10m 34.6154s,−21° 51′ 52.715″,8.14,18.8,M1V,0.58,3700,unknown,2,Brown dwarf B is too big to be considered a planet.
+82 G. Eridani,Eridanus,03h 19m 55.65s,−43° 04′ 11.2″,4.254,19.71,G8V,0.7,5401,5.76,4 (2),-
+Gliese 581,Libra,15h 19m 26.83s,−07° 43′ 20.2″,10.56,20.56,M3V,0.311,3484,4.326,3 (2),-
+Gliese 667 C,Scorpius,17h 18m 57.16s,−34° 59′ 23.14″,10.2,21,M1.5V,0.31,3700,2,2 (5),Triple star system
+HD 219134,Cassiopeia,23h 13m 14.74s,57° 10′ 03.5″,5.57,21,K3Vvar,0.794,4699,12.66,6,-
+61 Virginis,Virgo,13h 18m 24.31s,−18° 18′ 40.3″,4.74,28,G5V,0.954,5531,8.96,3,-
+TRAPPIST-1,Aquarius,23h 06m 29.283s,−05° 02′ 28.59″,18.8,39.5,M8V,0.089,2550,7.6,7,-
+55 Cancri,Cancer,08h 52m 35.81s,+28° 19′ 50.9″,5.95,40,G8V,1.026,5217,7.4,5,-
+HD 69830,Puppis,08h 18m 23.95s,−12° 37′ 55.8″,5.95,41,K0V,0.856,5385,7.446,3,-
+HD 40307,Pictor,05h 54m 04.24s,−60° 01′ 24.5″,7.17,42,K2.5V,0.752,4977,1.198,4 (2),-
+Upsilon Andromedae,Andromeda,01h 36m 47.84s,+41° 24′ 19.7″,4.09,44,F8V,1.27,6107,3.781,4,-
+47 Ursae Majoris,Ursa Major,10h 59m 27.97s,+40° 25′ 48.9″,5.1,46,G0V,1.029,5892,7.434,3,-
+Nu2 Lupi,Lupus,15h 21m 49.57s,−48° 19′ 01.1″,5.65,47,G2V,0.906,5664,10.36,3,-
+Gliese 163,Dorado,04h 09m 16s,−53° 22′ 25″,11.8,49,M3.5V,0.4,unknown,3,5,-
+Mu Arae,Ara,17h 44m 08.70s,−51° 50′ 02.6″,5.15,51,G3IV-V,1.077,5704,6.413,4,-
+HD 113538,Centaurus,13h 04m 57.48s,−52° 26′ 34.5″,9.1,52,K9V,0.698,4685,1.278,2,-
+Gliese 777,Cygnus,20h 03m 37.41s,+29° 53′ 48.5″,5.71,52,G6IV,1.037,5588,12.11,2,-
+Gliese 676 A,Ara,17h 30m 11.2042s,−51° 38′ 13.116″,9.59,53,M0V,0.71,unknown,unknown,4,-
+HD 21749,Reticulum,03h 27m 00.0s,−63° 30′ 08″,8.1,53,K4.5,0.73,4640,unknown,2,-
+HD 128311,Boötes,14h 36m 00.56s,+09° 44′ 47.5″,7.51,54,K0V,0.804,4965,0.394,2,-
+HD 7924,Cassiopeia,01h 21m 59.12s,+76° 42′ 37.0″,7.19,55,K0V,0.832,5177,unknown,3,-
+HIP 65407,Canes Venatici,13h 24m 21.0s,+48° 53′ 06″,9.42,55,K0,0.93,5460,unknown,2,-
+14 Herculis,Hercules,16h 10m 24.31s,+43° 49′ 03.5″,6.67,57,K0V,0.902,5311,0.706,2,-
+Rho Coronae Borealis,Corona Borealis,16h 01m 02.80s,+33° 18′ 19.4″,5.39,57,G2V,0.889,5627,unknown,2,-
+HIP 38594,Puppis,07h 54m 11.0s,−25° 18′ 11″,9.7,58,M0,unknown,unknown,unknown,2,-
+83 Leonis,Leo,11h 26m 46.28s,+03° 00′ 22.8″,7.57,59,K2V,0.777,4875,4.486,2,-
+Pi Mensae,Mensa,05h 37m 08.79s,−80° 28′ 18.0″,5.65,59,G3IV,1.1,5888,3.83,2,-
+Beta Pictoris,Pictor,05h 47m 17.08s,−51° 04′ 00.2″,3.85,63,A5V,1.73,-,0.04,2,-
+HD 217107,Pisces,22h 58m 15.54s,−02° 23′ 43.4″,6.18,65,G8IV,1.019,5646,7.32,2,-
+Gliese 221,Orion,05h 53m 0s,−05° 59′ 41″,9.69,66,K7V or M0V,0.7,4324,4.4,2 (1),-
+HD 142,Phoenix,00h 06m 19.0s,−49° 04′ 30″,5.7,67,G1 IV,1.1,6180,5.93,3,-
+HD 215152,Aquarius,22h 43m 21s,−06° 24′ 03″,8.13,70,G8IV,1.019,5646,7.32,4,-
+HD 164922,Hercules,18h 02m 30.86s,+26° 18′ 46.8″,7.01,72,K0V,0.874,5293,13.4,3,-
+HD 1461,Cetus,00h 18m 41.62s,−08° 03′ 09.5″,6.47,76,G0V,1.08,5765,6.3,2,-
+HD 134060,Circinus,15h 10m 44.97s,−61° 25′ 20.3″,6.29,79,G3IV,unknown,unknown,unknown,2,-
+HD 60532,Puppis,07h 34m 03.18s,−22° 17′ 45.8″,4.46,83,F6IV-V,1.444,6095,2.671,2,-
+HD 96700,Hydra,11h 07m 54s,−30° 10′ 28″,6.5,83,G0V,unknown,unknown,unknown,2,-
+HD 39194,Mensa,05h 44m 32s,−70° 08′ 37″,8.08,84,K0V,unknown,unknown,unknown,3,-
+23 Librae,Libra,15h 13m 28.67s,−25° 18′ 33.6″,6.45,85,G5V,1.047,5559,7.322,2,-
+HIP 57274,Ursa Major,11h 44m 41s,+30° 57′ 33″,8.96,85,K5V,0.73,4640,7.87,3,-
+HD 181433,Pavo,19h 25m 09.57s,−66° 28′ 07.7″,8.38,87,K5V,0.777,4962,8.974,3,-
+HD 134606,Apus,15h 15m 15s,−70° 31′ 11″,6.85,87,G6IV,unknown,unknown,unknown,3,-
+HD 158259,Draco,17h 25m 24.0s,+52° 47′ 26″,6.46,89,G0,1.08,unknown,unknown,5 (1),-
+HD 82943,Hydra,09h 34m 50.74s,−12° 07′ 46.4″,6.54,90,G0V,1.175,5874,3.08,3,-
+HD 114386,Centaurus,13h 10m 39.82s,−35° 03′ 17.2″,8.73,91,K3V,unknown,4819,2.19,2,-
+HD 52265,Monoceros,07h 00m 18.10s,−05° 22′ 02.5″,6.3,91,G0V,1.2,6159,4.88,2,-
+HD 13808,Eridanus,02h 12m 43s,−53° 44′ 38″,8.38,93,K2V,unknown,unknown,unknown,2,-
+Star,Constellation,Right,Declination,Apparent,Distance (ly),Spectral,Mass,Temperature (K),Age,Confirmed,Notes
+,,ascension,,magnitude,,type,(M☉),,(Gyr),(unconfirmed),
+,,,,,,,,,,planets,
+HD 21693,Reticulum,03h 27m 12s,−58° 19′ 25″,7.94,105,G9IV,unknown,unknown,unknown,2,-
+HD 17926,Fornax,02h 51m 56.16s,−30° 48′ 53.2″,6.38,105,F6V,1.145,6201,unknown,3,-
+HD 11964,Cetus,01h 57m 09.61s,−10° 14′ 32.7″,6.42,107,G5IV,1.125,5522,9.561,2,-
+HD 45364,Canis Major,06h 25m 38.48s,−31° 28′ 51.4″,8.07,107,G8V,0.815,5434,7.546,2,-
+HD 92788,Sextans,10h 42m 48.0s,−02° 11′ 01″,7.31,107,G5,1.13,5559,3.78,2,-
+HD 37124,Taurus,05h 37m 02.49s,+20° 43′ 50.8″,7.68,110,G4V,0.83,5606,3.327,3,-
+HD 85390,Vela,09h 50m 02.0s,−49° 47′ 25″,8.54,111,K1V,0.76,5186,7.2,2,-
+HD 65216,Carina,07h 53m 41.3s,−63° 38′ 50.4″,7.98,112,G5V,0.92,5666,3.327,2,-
+HD 12661,Aries,02h 04m 34.29s,+25° 24′ 51.5″,7.44,114,G6V,1.068,5742,7.051,2,-
+HD 51608,Carina,06h 54m 51s,−55° 15′ 34″,8.17,114,K0IV,unknown,unknown,unknown,2,-
+HD 20781,Fornax,03h 20m 03s,−28° 47′ 02″,8.44,115,G9.5V,0.7,5256±29,unknown,2 (2),Located in binary star system.
+Kepler-444,Lyra,19h 19m 01s,41° 38′ 05″,9,117,K0V,0.758,5040,11.23,5,-
+HD 141399,Boötes,15h 46m 54.0s,+46° 59′ 11″,7.2,118,K0V,1.07,5600,unknown,4,-
+HD 169830,Sagittarius,18h 27m 49.48s,−29° 49′ 00.7″,5.91,119,F9V,1.413,6266,4.95,2,-
+HAT-P-11,Cygnus,19h 50m 50.0s,+48° 04′ 51″,9.59,123,K4,0.809,4780,6.5,2,-
+HD 215456,Grus,22h 46m 08s,−48° 58′ 44″,6.63,124,G0.5V,unknown,unknown,unknown,2,-
+HD 117618,Centaurus,13h 32m 25.0s,−47° 16′ 16″,7.18,124,G2V,1.05,5861,3.88,2,-
+Kepler-42,Cygnus,19h 28m 53s,+44° 37′ 10″,16.12,126,M,0.13,3068,unknown,3,-
+HD 31527,Lepus,04h 55m 38s,−23° 14′ 31″,7.48,126,G0V,unknown,unknown,unknown,3,-
+HD 10180,Hydrus,01h 37m 53.58s,−60° 30′ 41.5″,7.33,127,G1V,1.055,5911,4.335,6 (3),-
+HD 38529,Orion,05h 46m 34.96s,+01° 10′ 06.7″,5.94,128,G4V,1.48,5697,3.28,2 (1),-
+HD 23472,Reticulum,03h 41m 50.0s,−62° 46′ 01″,9.7,128,K3.5V,0.75,unknown,unknown,2,-
+HD 47186,Canis Major,06h 36m 08.79s,−27° 37′ 20.3″,7.79,129,G6V,0.991,5675,4.437,2,-
+HR 8799,Pegasus,23h 07m 28.72s,+21° 08′ 03.3″,5.96,129,A5V,1.472,7429,0.064,4,-
+HIP 5158,Cetus,01h 06m 02.05s,−22° 27′ 11.4″,10.21,130,K5,0.78,4962,unknown,2,-
+HD 89744,Ursa Major,10h 22m 10.0s,+41° 13′ 46″,5.74,130,F7V,1.4,6196,2.04,2,-
+HD 93385,Vela,10h 46m 15s,−41° 27′ 52″,7.49,138,G2V,unknown,unknown,unknown,2,-
+HD 27894,Reticulum,04h 20m 47.05s,−59° 24′ 39.0″,9.42,138,K2V,0.8,4875,3.9,3,-
+BD-08°2823,Sextans,10h 00m 47.72s,−09° 31′ 00.0″,9.86,139,K3V,0.744,4746,4.526,2,-
+HD 147018,Triangulum Australe,16h 23m 00.15s,−61° 41′ 19.5″,8.37,140,G9V,0.927,5441,6.364,2,-
+HD 37605,Orion,05h 40m 01.73s,+06° 03′ 38.1″,8.69,140,K0,0.8,5475,10.71,2,-
+HD 215497,Tucana,22h 46m 36.75s,−56° 35′ 58.3″,8.97,142,K3V,0.865,4852,4.568,2,-
+HD 20003,Hydrus,03h 07m 38s,−72° 19′ 19″,8.37,143,G8V,unknown,unknown,unknown,2,-
+HD 155358,Hercules,17h 09m 34.62s,+33° 21′ 21.1″,7.27,144,G0V,0.873,5760,9.992,2,-
+HD 175607,Pavo,19h 01m 05.0s,−66° 11′ 34″,0.71,148,G6V,0.71,5392,10.32,2,-
+HD 3167,Pisces,00h 34m 57.5s,+04° 22′ 53″,8.97,154.4,K0V,0.86,5261,7.8,3,-
+Gamma Librae,Libra,15h 35m 31.54s,−14° 47′ 22.4″,3.91,152,K0III,1.47,4822,8.5,2,-
+HD 34445,Orion,05h 17m 41.0s,+07° 21′ 12″,7.31,152,G0V,1.07,5836,8.5,6,-
+HD 204313,Capricornus,21h 28m 12.21s,–21° 43′ 34.5″,7.99,154,G5V,1.045,5767,3.38,2 (1),-
+HD 187123,Cygnus,19h 46m 58.11s,+34° 25′ 10.3″,7.83,157,G5V,1.056,5714,5.327,2,-
+HD 11506,Cetus,01h 52m 50.53s,−19° 30′ 25.1″,7.54,169,G0V,1.191,6058,5.42,2,-
+HD 41248,Pictor,06h 00m 33.0s,−56° 09′ 43″,8.82,171,G2V,0.92,5713,2,2,-
+HD 9446,Triangulum,01h 33m 20.18s,+29° 15′ 54.5″,8.35,171,G5V,1.003,5793,3.876,2,-
+HD 159868,Scorpius,17h 38m 59.53s,−43° 08′ 43.8″,7.27,172,G5V,1.09,5395,8.1,2,-
+HIP 14810,Aries,03h 11m 14.23s,+21° 05′ 50.5″,8.51,174,G5V,0.989,5485,5.271,3,-
+HD 191939,Draco,20h 08m 05.75s,+66° 51′ 2.1″,8.971,175,G8V,0.92,5427,7,3,-
+HD 125612,Virgo,14h 20m 53.51s,−17° 28′ 53.5″,8.33,177,G3V,1.099,5897,2.15,3,-
+HD 207832,Piscis Austrinus,21h 52m 36.0s,−26° 01′ 36″,8.79,177,G5V,0.94,5710,4.5,2,-
+HD 30177,Dorado,04h 41m 54.0s,−58° 01′ 14″,8.41,179,G8 V,1.05,5580,11.6,2,-
+HD 183263,Aquila,19h 28m 24.57s,+08° 21′ 30.0″,7.86,180,G2IV,1.172,5888,3.303,2,-
+HD 4732,Cetus,00h 49m 13.90s,−24° 08′ 11.5″,5.9,184,K0III,1.74,4959,unknown,2,-
+HD 213885,Tucana,22h 35m 56.0s,−59° 51′ 53″,8,189,G,1.068,5978,3.8,2,-
+HD 177830,Lyra,19h 05m 20.77s,+25° 55′ 14.4″,7.18,193,K0IV,1.477,4948,4.033,2,-
+Star,Constellation,Right,Declination,Apparent,Distance (ly),Spectral,Mass,Temperature (K),Age,Confirmed,Notes
+,,ascension,,magnitude,,type,(M☉),,(Gyr),(unconfirmed),
+,,,,,,,,,,planets,
+HD 109271,Virgo,12h 33m 36.0s,−11° 37′ 19″,8.05,202,G5,1.047,5783,7.3,2 (1),-
+HD 38677,Orion,05h 47m 06.0s,−10° 37′ 49″″,8,202,F8V,1.21,6196,2.01,4,-
+HD 108874,Coma Berenices,12h 30m 26.88s,+22° 52′ 47.4″,8.74,204,G5V,0.987,5407,7.26,2,-
+HD 154857,Ara,17h 11m 15.72s,−56° 40′ 50.9″,7.25,209,G5V,1.17,5445,8.98,2,-
+HD 74156,Hydra,08h 42m 25.12s,+04° 34′ 41.2″,7.61,210,G0IV,1.236,6039,7.375,2 (1),-
+Kepler-37,Lyra,18h 58m 23.1s,44° 31′ 05″,9.77,215,G,0.803,5417,6,4,-
+HD 121056,Centaurus,13h 53m 52.0s,−35° 18′ 52″,6.17,215,K0III,1.63,4890,unknown,2,-
+HD 200964,Equuleus,21h 06m 39.84s,+03° 48′ 11.2″,6.49,223,K0III,1.437,5164,2.992,2,-
+HD 163607,Draco,17h 53m 40s,+56° 23′ 31″,8.15,225,G5IV,1.09,5543,8.6,2,-
+HD 159243,Ophiuchus,17h 33m 22.0s,+05° 42′ 03″,8.65,225,G0V,1.125,6123,1.25,2,-
+HD 13908,Cassiopeia,02h 18m 15.0s,+65° 35′ 40″,7.51,232,F8V,1.29,6255,2.9,2,-
+HD 148164,Hercules,16h 25m 45.0s,+11° 55′ 09″,8.23,235,F8,1.21,6032,2.41,2,-
+24 Sextantis,Sextans,10h 23m 28.37s,−00° 54′ 08.1″,6.44,253,G5III,1.545,5098,2.697,2,-
+HD 4203,Pisces,00h 44m 41.0s,+20° 26′ 56″,8.68,253,G5,1.13,5701,9.41,2,-
+HD 1605,Andromeda,00h 20m 32.0s,+30° 58′ 29″,7.52,276,F8V,1.31,4757,4.59,2,-
+HD 47366,Canis Major,06h 37m 40.79s,−12° 59′ 05.3″,6.11,277,K1III:,1.81,4866,1.61,2,-
+HD 67087,Gemini,08h 07m 40.0s,+31° 33′ 05″,8.05,290,F8V,1.36,6330,1.45,2,-
+Kepler-445,Cygnus,19h 54m 57.0s,+46° 29′ 55″,18,294,,0.18,3157,unknown,3,-
+HAT-P-17,Cygnus,21h 38m 08.73s,+30° 29′ 19.4″,10.54,295,K0V,0.857,5246,7.751,2,-
+HD 73526,Vela,08h 37m 16.48s,−41° 19′ 08.8″,9,328,G6V,1.02,5470,5.589,2,-
+HD 33844,Lepus,05h 12m 36.0s,+41° 54′ 03″,,329,,1.75,4827,2.1,2,
+HD 147873,Scorpius,17h 30m 48.38s,−33° 36′ 36.0″,7.96,342,G1V,1.38,5972,4,2,-
+HD 16031,Cetus,02h 34m 11s,−12° 23′ 03″,9.76,362,F2V,0.83,6040,12.8,2,-
+HIP 41378,Cancer,08h 26m 28.0s,+10° 04′ 49″,8.9,378,F8,1.15,6199,unknown,6 (1),-
+Kepler-446,Lyra,18h 49m 00.0s,+44° 55′ 16″,16.5,391,,0.22,3359,unknown,3,-
+HD 47536,Canis Major,06h 37m 47.62s,−32° 20′ 23.0″,5.26,402,K1III,0.944,4379,9.328,2,-
+HD 133803,Libra,15h 07m 15.0s,−29° 30′ 16″,8.12,408,A9V,1.72,7450,0.015,2,-
+Kepler-68,Cygnus,19h 24m 07.76s,+49° 02′ 25.0″,8.588,440,G,1.079,5793,6.3,3,-
+COROT-7,Monoceros,06h 43m 49.47s,−01° 03′ 46.9″,11.73,489,K0V,0.93,5275,1.5,2 (1),-
+Kepler-732,Lyra,18h 54m 55.7s,+45° 57′ 32″,,489,,0.49,3631,unknown,2,-
+Kepler-186,Cygnus,19:54:36.6h,+43:57:18°,,492,,0.478,3788,unknown,5,-
+Kepler-10,Draco,19h 02m 33.06s,+50° 14′ 28.7″,10.96,564,G5V,0.895,5627,11.876,2,-
+WASP-41,Centaurus,12h 42m 28.5s,−30° 38′ 24″,11.6,587,G8V,0.95,5450,unknown,2,-
+WASP-134,Pegasus,21h 50m 17.0ss,−30° 38′ 24″,11.3,636,G4,1.131,5700,5.1,2,-
+WASP-47,Aquarius,22h 04m 49.0s,−12° 01′ 08″,11.9,652,G9V,1.084,5400,unknown,4,-
+HAT-P-13,Ursa Major,08h 39m 31.81s,+47° 21′ 07.3″,10.62,698,G4,1.22,5638,5,2 (1),-
+HD 102272,Virgo,11h 46m 23.54s,+14° 07′ 26.3″,8.71,796,K2III,1.886,4908,1.527,2,-
+WASP-148,Hercules,16h 56m 31.0s,+44° 18′ 09″,12,809,,1,5460,unknown,2,-
+Kepler-20,Lyra,19h 10m 47.524s,42° 20′ 19.30″,12.51,950,G8,0.912,5466,8.8,6,-
+HAT-P-46,Serpens,18h 01m 47.0s,−02° 58′ 15″,11.936,965,,1.284,6120,2.5,2,-
+PSR B1257+12,Virgo,13h 00m 03.58s,+12° 40′ 56.5″,24.31,980,pulsar,1.444,28856,0.797,3,-
+Star,Constellation,Right,Declination,Apparent,Distance (ly),Spectral,Mass,Temperature (K),Age,Confirmed,Notes
+,,ascension,,magnitude,,type,(M☉),,(Gyr),(unconfirmed),
+,,,,,,,,,,planets,
+Kepler-100,Lyra,19h 25m 32.6s,+41° 59′ 24″,,1011,,1.109,5825,6.5,3,
+Kepler-968,Draco,19h 02m 24.6s,+50° 06′ 43″,,1018,,0.76,4598,unknown,2,-
+Kepler-65,Lyra,19h 14m 45.3s,+41° 09′ 04.2″,11.018,1019,B,1.199,6211,unknown,4,-
+Kepler-1542,Lyra,19h 02m 54.8s,+42° 39′ 16″,,1096,,0.94,5564,unknown,4,-
+Kepler-1350,Lyra,19h 13m 00.1s,+46° 40′ 47″,,1142,,0.55,3827,unknown,2,-
+Kepler-755,Cygnus,19h 47m 26.6s,+41° 05′ 50″,,1200,,0.82,5043,unknown,2,-
+Kepler-62,Lyra,18h 52m 51.060s,+45° 20′ 59.507″,13.65,"1,200",K2V,0.69,4925,7,5,-
+HAT-P-44,Boötes,14h 12m 35.0s,+47° 00′ 53″,13.212,1220,,0.939,5295,8.9,2,-
+Kepler-88,Lyra,19h 24m 36s,+40° 40′ 10″,11.454,1255,G,1.022,5513,2.45,3,-
+Kepler-32,Cygnus,19h 51m 22.0s,+46° 34′ 27″,16,1301.1,M1V,0.58,3900,unknown,3 (2),-
+Kepler-466,Cygnus,19h 42m 35.7s,+48° 29′ 44″,,1341,,1.04,5927,unknown,2,-
+Kepler-969,Cygnus,19h 13m 29.4s,+47° 56′ 01″,,1341,,0.92,5214,unknown,2,-
+Kepler-488,Cygnus,19h 49m 48.9s,+41° 00′ 40″,,1389,,1.452,6820,1.5,2,-
+WASP-12,Auriga,06h 30m 33.0s,+29° 40′ 20″,11.69,1393,G0,1.35,6300,1.7,2,-
+Kepler-1642,Cygnus,19h 48m 50.9s,+43° 38′ 37″,,1458,,0.88,5355,unknown,2,-
+Kepler-92,Lyra,19h 16m 21.0s,+41° 33′ 47″,11.6,1463,,1.209,5871,5.52,3,
+Kepler-1371,Cygnus,19h 15m 19.5s,+47° 33′ 07″,,1468,,0.87,5361,unknown,2,-
+Kepler-1086,Cygnus,19h 41m 00.3s,+45° 50′ 35″,,1513,,0.7,4350,unknown,2,-
+Kepler-109,Lyra,19h 21m 34.26s,+40° 17′ 5.55″,12.365,1516,,1.069,5952,6.35,2,
+Kepler-36,Cygnus,19h 25m 00.04s,+49° 13′ 54.58″,11.866,1530,G1V,1.07,5911,unknown,2,
+Kepler-103,Lyra,19h 15m 26.3s,+40° 03′ 52″,12.287,1545,,1.099,5845,6.67,2,
+NN Serpentis,Serpens,15h 52m 56.13s,+12° 54′ 44.7″,16.67,1593,WD+M,0.646,18858,10.153,2,Circumbinary planets
+Kepler-1388,Lyra,18h 53m 20.6s,+47° 10′ 28″,,1604,,0.63,4098,unknown,4,-
+Kepler-520,Lyra,19h 32m 43.3s,+41° 37′ 04″,,1605,,1.1,6112,unknown,2,-
+Kepler-967,Lyra,19h 06m 13.9s,+38° 24′ 19″,,1628,,0.84,5178,unknown,2,-
+Kepler-625,Cygnus,19h 28m 36.1s,+39° 38′ 15″,,1637,,1.04,5789,unknown,2,-
+Kepler-1365,Cygnus,19h 28m 47.9s,+42° 02′ 46″,,1765,,1,5770,unknown,2,-
+Kepler-1321,Cygnus,19h 38m 06.9s,+46° 38′ 27″,,1784,,0.54,4094,unknown,2,-
+Kepler-1530,Cygnus,19h 12m 39.0s,+48° 09′ 55″,,1800,,0.92,5477,unknown,2,-
+Kepler-1050,Draco,18h 51m 42.0s,+48° 37′ 35″,,1810,,1.09,6010,unknown,2,-
+Kepler-1047,Cygnus,19h 14m 35.1s,+50° 47′ 20″,,1846,,1.08,5754,unknown,3,-
+Kepler-605,Lyra,19h 09m 10.9s,+43° 16′ 48″,,1859,,0.91,5462,unknown,2,-
+Kepler-653,Lyra,18h 48m 51.1s,+46° 43′ 04″,,1934,,1.02,5665,unknown,2,-
+Kepler-11,Cygnus,19h 48m 27.62s,+41° 54′ 32.9″,13.69,1999,G4V,0.954,5681,7.834,6,-
+Kepler-436,Cygnus,20h 06m 53.0s,+44° 24′ 43″,16.3,2016,,0.729,4551,3,2,-
+Kepler-1143,Lyra,19h 09m 12.7s,+39° 17′ 23″,,2061,,0.81,5053,unknown,2,-
+Kepler-549,Lyra,18h 52m 05.5s,+47° 15′ 40″,,2113,,0.88,5360,unknown,2,-
+Kepler-804,Cygnus,19h 33m 29.3s,+44° 47′ 06″,,2113,,1.01,5817,unknown,2,-
+Kepler-561,Cygnus,19h 34m 59.3s,+45° 06′ 26″,,2175,,0.96,5646,unknown,2,-
+Kepler-1254,Draco,19h 34m 59.3s,+45° 06′ 26″,,2205,,0.78,4985,unknown,3,-
+Kepler-1464,Lyra,19h 08m 56.6s,+38° 45′ 15″,,2257,,1.02,5828,unknown,2,-
+Kepler-1311,Cygnus,19h 18m 36.3s,+43° 49′ 28″,,2299,,1.05,5748,unknown,2,-
+Kepler-289,Cygnus,19h 49m 51.7s,+42° 52′ 58″,12.9,2283,,1.08,5990,0.65,3,-
+Kepler-553,Cygnus,19h 48m 27.62s,+41° 54′ 32.9″,,2365,,0.92,5266,unknown,2,-
+Kepler-524,Cygnus,19h 47m 26.2s,+49° 09′ 43″,,2381,,1.09,6014,unknown,2,-
+Kepler-770,Lyra,19h 47m 26.2s,+49° 09′ 43″,,2482,,0.94,5598,unknown,2,-
+Kepler-90,Draco,18h 57m 44.0s,+49° 18′ 19″,14,2500,G0V,1.13,5930,2,8,-
+Kepler-760,Lyra,19h 10m 22.4s,+44° 10′ 46″,,2551,,0.89,5322,unknown,2,-
+Kepler-529,Draco,19h 03m 33.2s,+47° 52′ 49″,,2567,,1.07,6087,unknown,2,-
+Kepler-1398,Cygnus,19h 39m 27.9s,+48° 38′ 20″,,2586,,1.13,6126,unknown,2,-
+Kepler-1336,Cygnus,19h 45m 06.7s,+46° 53′ 59″,,2681,,0.94,5512,unknown,2,-
+Kepler-903,Lyra,19h 15m 05.0s,+40° 39′ 51″,,2703,,0.98,5682,unknown,2,-
+Kepler-887,Lyra,19h 20m 21.8s,+39° 49′ 01″,,2710,,1.19,6194,unknown,2,-
+Kepler-487,Cygnus,19h 41m 08.9s,+41° 13′ 19″,,2723,,0.91,5444,unknown,2,-
+Kepler-1073,Cygnus,19h 36m 36.6s,+38° 13′ 59″,,2729,,1,5792,unknown,2,-
+Kepler-9,Lyra,19h 02m 17.76s,+38° 24′ 03.2″,13.91,2754,G2V,0.998,5722,3.008,3,-
+Kepler-1093,Lyra,18h 59m 54.7s,+41° 25′ 13″,,2766,,1.13,6166,unknown,2,-
+Kepler-46,Cygnus,19h 17m 05.0s,+42° 36′ 15″,15.3,2795,,0.902,5155,9.9,3,-
+Kepler-1245,Lyra,19h 22m 58.6s,+43° 15′ 39″,,2808,,0.86,5306,unknown,2,-
+Kepler-432,Cygnus,19h 33m 08.0s,+48° 17′ 09″,13,2851,K2III,1.35,5020,3.6,2,-
+Kepler-1370,Lyra,18h 58m 15.8s,+41° 46′ 43″,,2864,,1.19,6202,unknown,2,-
+Kepler-920,Draco,18h 57m 11.3s,+49° 09′ 31″,,3020,,0.89,5403,unknown,2,-
+Kepler-990,Cygnus,19h 51m 45.2s,+46° 52′ 53″,,3043,,1.05,5948,unknown,2,-
+Kepler-712,Cygnus,19h 39m 38.3s,+42° 56′ 07″,,3079,,0.84,5148,unknown,2,-
+Kepler-1641,Cygnus,19h 45m 26.3s,+41° 34′ 28″,,3134,,1.12,6152,unknown,2,-
+Kepler-603,Cygnus,19h 37m 07.4s,+42° 17′ 27″,,3134,,1.01,5808,unknown,3,-
+Kepler-616,Cygnus,19h 39m 57.4s,+46° 50′ 18″,,3324,,0.98,5753,unknown,2,-
+Kepler-1065,Cygnus,19h 38m 02.7s,+38° 47:26′,,3516,,0.94,5635,unknown,2,-
+Kepler-619,Cygnus,19h 23m 23.8s,+48° 24′ 58″,,3623,,1.09,5980,unknown,2,-
+Kepler-610,Cygnus,19h 32m 41.1s,+45° 03′ 56″,,3630,,1.1,5943,unknown,2,-
+Kepler-1468,Cygnus,19h 34m 04.8s,+41° 16′ 39″,,3686,,1.04,5893,unknown,2,-
+Kepler-70,Cygnus,19h 45m 25s,41° 05′ 34″,14.87,3849,sdB,0.496,27730,0.018,2 (1),-
+Kepler-750,Cygnus,19h 16m 23.2s,+44° 00′ 16″,,3852,,1.15,6160,unknown,2,-
+Kepler-24,Lyra,19h 21m 39.18s,+38° 20′ 37.51″,14.925,3910,,1.03,5800,unknown,4,-
+Kepler-1016,Cygnus,19h 38m 27.3s,+45° 59′ 05″,,4041,,0.99,5821,unknown,2,-
+Kepler-758,Cygnus,19h 32m 20.3s,+41° 08′ 08″,,4413,,1.16,6228,unknown,4,-
+Kepler-722,Cygnus,19h 21m 03.2s,+44° 33′ 23″,,4485,,1.03,5863,unknown,2,-
+Kepler-30,Lyra,19h 01m 08.07s,+38° 56′ 50.21″,15.403,4560,,0.99,5498,unknown,3,
+OGLE-2006-BLG-109L,Sagittarius,17h 52m 35.22s,−30° 05′ 15.7″,19.87,4850,M1V,0.513,3998,6.315,2,-
+Kepler-1129,Lyra,19h 26m 25.1s,+41° 18′ 34″,,4103,,1,5831,unknown,2,-
+Kepler-769,Cygnus,19h 30m 51.1s,+38° 21′ 30″,,4442,,1.19,6186,unknown,2,-
+Kepler-937,Cygnus,19h 36m 40.5s,+46° 42′ 53″,,4834,,1.15,6095,unknown,2,-
+Kepler-47,Cygnus,19h 41m 11.5s,+46° 55′ 13.69″,15.178,3442,G,1.043,5636(A),4.5,3,Circumbinary planets
+,,,,,,M,,(B is unknown),,,
+Kepler-1154,Cygnus,19h 49m 54.5s,+39° 52′ 38″,,4993,,1.26,6327,unknown,2,
+Kepler-19,Cygnus,19h 21m 41s,+37° 51′ 06″,15.178,717,,0.936,5541,1.9,3,
+OGLE-2012-BLG-0026L,Ophiuchus,17h 34m 19s,−27° 08′ 34″,,13300,G5 V,0.82,unknown,unknown,2,
+Star,Constellation,Right,Declination,Apparent,Distance (ly),Spectral,Mass,Temperature (K),Age,Confirmed,Notes
+,,ascension,,magnitude,,type,(M☉),,(Gyr),(unconfirmed),
+,,,,,,,,,,planets,
+Kepler-33,Lyra,19h 16m 18.61s,+46° 00′ 18.8″,13.988,4090,G1IV,1.164,5849,4.27,5,
+Kepler-89,Cygnus,19h 49m 20.0s,+41° 53′ 28″,12.4,1580,F8V,1.25,6116,3.9,4,Hints of additional planets [3]
+Kepler-18,Cygnus,19h 52m 19.06s,+44° 44′ 46.76″,13.549,1430,G7V,0.97,5345,10,3,
+Kepler-25,Lyra,19h 06m 33.0s,+39° 29′ 16″,11,799,F,1.22,6190,unknown,3,
+Kepler-26,Lyra,18h 59m 46s,+46° 34′ 00″,16,1100,KV,0.65,4500,unknown,3 (1),
+Kepler-27,Cygnus,19h 28m 56.82s,+41° 05′ 9.15″,15.855,3500,G5V,0.65,5400,unknown,2 (1),
+Kepler-28,Cygnus,19h 28m 32.89s,+42° 25′ 45.91″,15.036,1450,M0V,0.75,4590,unknown,2,
+Kepler-48,Cygnus,19h 56m 33.41s,+40° 56′ 56.47″,13.04,,,0.89,5190,unknown,4,
+Kepler-49,Cygnus,19h 29m 11.0s,+40° 35′ 30″,15.5,,,0.55,3974,unknown,4,
+Kepler-50,Cygnus,19h 12m 24.21s,+50° 02′ 01.38″,10.421,,,1.23,6058,unknown,2,
+Kepler-51,Cygnus,19h 45m 55.0s,+49° 56′ 16″,15,2610,GV,1,5803,unknown,3,
+Kepler-52,Draco,19h 06m 57.0s,+49° 58′ 33″,15.5,,,0.54,4075,unknown,3,
+Kepler-53,Lyra,19h 21m 51.0s,+40° 33′ 45″,16,,,0.98,5858,unknown,3,
+Kepler-54,Cygnus,19h 39m 06.0s,+43° 03′ 23″,16.3,,,0.51,3705,unknown,3,
+Kepler-55,Lyra,19h 00m 40.0s,+44° 01′ 35″,16.3,,,0.62,4362,unknown,5,
+Kepler-56,Cygnus,19h 35m 02.0s,+41° 52′ 19″,13,3060,G0,1.32,4840,3.5,3,
+Kepler-57,Cygnus,19h 34m 33.91s,+44° 39′ 25.34″,14.809,,,0.83,5145,unknown,2,
+Kepler-58,Cygnus,19h 45m 26.0s,+39° 06′ 55″,15.3,,,0.95,5843,unknown,3,
+Kepler-59,Lyra,19h 08m 09.48s,+46° 38′ 24.46″,14.307,,,1.04,6074,unknown,2,
+Kepler-60,Cygnus,19h 15m 50.70s,+42° 15′ 54.04″,13.959,,,1.11,5915,unknown,3,
+Kepler-79,Cygnus,20h 02m 04.11s,+44° 22′ 53.69″,13.914,,,1.1,6187,unknown,4,
+Kepler-81,Cygnus,19h 34m 32.9s,+42° 49′ 30″,15.56,,,0.648,4391,unknown,3,
+Kepler-82,Cygnus,19h 31m 29.61s,+42° 57′ 58.09″,15.158,,,0.85,5512,unknown,4,
+Kepler-83,Lyra,18h 48m 55.8s,+43° 39′ 56″,16.51,,,0.664,4164,unknown,3,
+Kepler-84,Cygnus,19h 53m 00.49s,+40° 29′ 45.87″,14.764,4700,G3,1,5755,unknown,5,
+Kepler-85,Cygnus,19h 23m 54.0s,+45° 17′ 25″,15,,,0.95,5666,unknown,4,
+Kepler-87,Cygnus,19h 51m 40.0s,+46° 57′ 54″,15,,,1.1,5600,7.5,2 (1),
+Kepler-93,Lyra,19h 25m 40.39s,+38° 40′ 20.48″,9.931,,G5V,0.91,5669,unknown,2,
+Kepler-94,Lyra,18h 44m 46.7s,+47° 29′ 50″,12.895,,,0.81,4781,1.41,2,
+Kepler-97,Cygnus?,19h 09m 18.39s,+48° 40′ 24.35″,12.872,,,0.94,5779,unknown,2,
+Kepler-101,Draco,18h 53m 01.32s,+48° 21′ 18.82″,,,,1.12,5570,unknown,2,
+Kepler-102,Lyra,18h 45m 55.9s,+47° 12′ 29″,11.492,340,,0.81,4809,1.41,5,
+Kepler-106,Cygnus,20h 03m 27.4s,+44° 20′ 15″,12.882,,,1,5858,4.83,4,
+Kepler-113,Cygnus,19h 11m 59.5s,+50° 56′ 40″,13.461,,,0.75,4725,6.89,2,
+Kepler-114,Cygnus,19h 36m 29.0s,+48° 20′ 58″,13.7,,,0.71,4450,unknown,3,
+Kepler-122,,19h 24m 26.9s,+39° 56′ 57″,,,,0.99,6050,unknown,4,
+Kepler-128,Lyra,18h 49m 58.0s,+43° 58′ 49″,11.4,,,1.17,6013,unknown,2,
+Kepler-131,Lyra,19h 14m 07.4s,+40° 56′ 32″,11.525,,,1.02,5685,3.66,2,
+Kepler-138,Lyra,19h 21m 32.0s,+43° 17′ 35″,13.5,218.5,M1V,0.57,3871,unknown,3,
+Kepler-145,Cygnus,19h 25m 33.0s,+44° 31′ 45″,11.9,,,1.26,6207,unknown,2,
+Kepler-169,,19h 03m 60.0s,+40° 55:10′,12.186,,,0.86,4997,unknown,5,
+Kepler-177,Lyra,19h 04m 11.0s,+45° 03′ 12″,15,,,0.93,5942,unknown,2,
+Kepler-238,Lyra,19h 11m 35s,+40° 38′ 16″,15.084,,G5,1.43,5614,unknown,5,
+Kepler-276,Cygnus,19h 34m 16s,+39° 02′ 11″,15.368,,,0.96,5812,unknown,3,
+Kepler-277,Lyra,19h 06m 20.0s,+39° 04′ 38″,13.4,,,1.19,6306,unknown,2,
+Kepler-279,Lyra,19h 09m 34.0s,+42° 11′ 42″,13.7,,,1.23,6562,unknown,3,
+Kepler-282,Lyra,18h 58m 43.0s,+44° 47′ 51″,15.2,,,1.09,5876,unknown,4,
+Kepler-292,,19h 43m 03.84s,+43° 25′ 27.4″,13.97,,K0,0.88,5299,unknown,5,
+Kepler-296,Lyra,19h 06m 09.6s,+49° 26′ 14.4″,12.6,,K+K,unknown,4249,unknown,5,
+Kepler-305,Cygnus,19h 56m 53.83s,+40° 20′ 35.46″,15.812,,,0.76,4918,unknown,3 (1),
+Kepler-307,Cygnus,19h 51m 10.83s,+40° 25′ 03.73″,14.072,,,0.98,5445,unknown,2,
+Kepler-328,Cygnus,19h 43m 14.23s,+40° 00′ 30.61″,15.674,,,1.15,5914,unknown,2,
+Kepler-350,Lyra,19h 01m 41.0s,+39° 42′ 22″,13.8,,,1.03,6215,unknown,3,
+Kepler-396,Cygnus,19h 44m 31.87s,+48° 58′ 38.65″,11.921,,,0.85,5384,unknown,2,
+Kepler-406,Cygnus,19h 27m 23.5s,+44° 58′ 06″,12.52,,,1.07,5538,5.84,2,
+Kepler-411,Cygnus,19h 10m 25.3s,+49° 31′ 24″,12.5,,,0.83,4974,unknown,4,
+Kepler-460,Lyra,19h 13m 54.0s,+40° 39′ 05″,14.2,,,1.07,6340,unknown,2,
+Kepler-458,Cygnus,19h 48m 10.9s,+46° 19′ 43″,,,,0.98,6065,unknown,2,
+Kepler-154,Cygnus,19h 19m 07.3s,+49° 53′ 48″,,,,0.89,5690,unknown,5,
+Kepler-304,Cygnus,19h 37m 46.0s,+40° 33′ 27″,,,,0.8,4731,unknown,4,
+Kepler-351,Lyra,19h 05m 48.6s,+42° 39′ 28″,,,,0.89,5643,unknown,3,
+Kepler-166,Cygnus,19h 32m 38.4s,+48° 52′ 52″,,,,unknown,5413,unknown,3,
+Kepler-157,Lyra,19h 24m 23.3s,+38° 52′ 32″,,,,unknown,5774,unknown,3,
+Kepler-342,Cygnus,19h 24m 23.3s,+38° 52′ 32″,,,,1.13,6175,unknown,4,
+Kepler-148,Cygnus,19h 19m 08.7s,+46° 51′ 32″,,,,unknown,5272,unknown,3,
+Kepler-132,Lyra,18h 52m 56.6s,+41° 20′ 35″,,,,unknown,6003,unknown,4,
+Kepler-403,Cygnus,19h 19m 41.1s,+46° 44′ 40″,,,,unknown,6090,unknown,3,
+Kepler-401,Cygnus,19h 20m 19.9s,+50° 51′ 49″,,,,unknown,6117,unknown,3,
+Kepler-398,Lyra,19h 25m 52.5s,+40° 20′ 38″,,,,unknown,4493,unknown,3,
+Kepler-271,Lyra,18h 52m 00.7s,+44° 17′ 03″,,,,unknown,5524,unknown,3,
+Kepler-255,Cygnus,19h 44m 15.4s,+45° 58′ 37″,,,,0.97,5573,unknown,3,
+Kepler-245,Cygnus,19h 26m 33.4s,+42° 26′ 11″,,,,0.8,5100,unknown,4,
+Kepler-218,Cygnus,19h 41m 39.1s,+46° 15′ 59″,,,,unknown,5502,unknown,3,
+Kepler-217,Cygnus,19h 32m 09.1s,+46° 16′ 39″,,,,unknown,6171,unknown,3,
+Kepler-192,Lyra,19h 11m 40.3s,+45° 35′ 34″,,,,unknown,5479,unknown,3,
+Kepler-191,Cygnus,19h 24m 44.0s,+45° 19′ 23″,,,,0.85,5282,unknown,3,
+Kepler-176,Cygnus,19h 38m 40.3s,+43° 51′ 12″,,,,unknown,5232,unknown,4,
+Kepler-167,Cygnus,19h 30m 38.0s,+38° 20′ 43″,,,,0.76,4796,unknown,4,
+Kepler-462,Cygnus,19h 59m 17.0s,+43° 48′ 51″,11.73,,,1.965,7717,unknown,2,
+Kepler-539,Cygnus,19h 56m 29.0s,+41° 52′ 00″,12.5,,G2V,1.048,5820,1.1,2,
+Kepler-431,Lyra,18h 44m 26.9s,+43° 13′ 40″,,,,1.071,6004,unknown,3,
+Kepler-430,Cygnus,19h 31m 14.1s,+49° 34′ 46″,,,,1.166,5884,unknown,2,
+Kepler-450,Cygnus,19h 41m 56.8s,+51° 00′ 49″,11.684,,,1.346,6152,unknown,3,
+Kepler-449,Cygnus,19h 34m 55.9s,+41° 54′ 03″,11.411,,,0.969,5552,unknown,2,
+Kepler-454,Lyra,19h 09m 55.0s,+38° 13′ 44″,11.57,,,1.028,5687,5.25,3,
+Kepler-108,Cygnus,19h 09m 55.0s,+38° 13′ 44″,,,,0.87,5854,unknown,2,
+Kepler-338,Lyra,18h 51m 54.9s,+40° 47′ 04″,,,,1.1,5923,unknown,4,
+Kepler-278,Lyra,19h 20m 25.7s,+38° 42′ 08″,,,,unknown,4991,unknown,2,
+Kepler-197,Cygnus,19h 40m 54.3s,+50° 33′ 32″,,,,unknown,6004,unknown,4,
+Kepler-424,Cygnus,19h 54m 30.0s,+48° 34′ 39″,14.5,,,1.01,5460,unknown,2,
+Kepler-419,Cygnus,19h 41m 40.0s,+51° 11′ 05″,14,3400,F8V,1.22,6230,2.8,2,
+Kepler-418,Cygnus,19h 37m 44.0s,+38° 21′ 20″,15,,,0.98,5820,7,2,
+Kepler-231,Cygnus,19h 35m 53.6s,+50° 31′ 55″,,,,0.58,3767,unknown,2,
+Kepler-247,Lyra,19h 14m 34.2s,+43° 02′ 21″,,,,0.884,5094,unknown,3,
+Kepler-227,Cygnus,19h 27m 44.2s,+48° 08′ 30″,,,,unknown,5854,unknown,2,
+Kepler-210,Cygnus,19h 30m 01.0s,+43° 04′ 59″,14.4,,K,0.63,4300,unknown,2,-
+Kepler-104,Lyra,19h 10m 25.1s,+42° 10′ 00″,,,,0.81,5711,unknown,3,-
+Kepler-23,Cygnus,19h 36m 52.0s,+49° 28′ 45″,14,2790,G5V,1.11,5760,unknown,3,-
+Kepler-107,Cygnus,19h 48m 06.8s,+48° 12′ 31″,12.7,1714,G2,1.238,5851,4.29,4,-
+Kepler-126,Cygnus,19h 17m 23.4s,+44° 12′ 31″,,,,unknown,6239,unknown,3,-
+Kepler-127,Lyra,19h 00m 45.6s,+46° 01′ 41″,,,,unknown,6106,unknown,3,-
+Kepler-129,Draco,19h 01m 14.7s,+47° 50′ 55″,,,,1.18,5770,unknown,2,-
+Kepler-130,Lyra,19h 13m 48.2s,+40° 14′ 43″,,,,1,5884,unknown,3,-
+Kepler-163,Cygnus,19h 40m 00.7s,+46° 59′ 14″,,,,0.96,5776,unknown,2,-
+Kepler-164,Lyra,19h 11m 07.4s,+47° 37′ 48″,,,,1.11,5888,unknown,3,-
+Kepler-165,Draco,18h 42m 45.8s,+47° 48′ 35″,,,,unknown,5211,unknown,2,-
+Kepler-168,Cygnus,19h 38m 50.4s,+39° 49′ 30″,,,,unknown,6282,unknown,2,-
+Kepler-170,Lyra,18h 58m 05.1s,+41° 37′ 47″,,,,unknown,5679,unknown,2,-
+Kepler-171,Cygnus,19h 47m 05.3s,+41° 45′ 20″,,,,unknown,5642,unknown,3,-
+Kepler-172,Lyra,19h 47m 05.3s,+41° 45′ 20″,,,,0.86,5526,unknown,4,-
+Kepler-173,Lyra,19h 38m 35.2s,+41° 53:03′,,,,0.78,6031,unknown,2,-
+Kepler-174,Lyra,19h 09m 45.4s,+43° 49:56′,,,,unknown,4880,unknown,3,-
+Kepler-175,Cygnus,19h 18m 12.8s,+43° 52′ 34″,,,,1.04,6064,unknown,2,-
+Kepler-31,Cygnus,19h 36m 06.0s,+45° 51′ 11″,15.5,5700,G5,1.21,6340,unknown,3,
+Kepler-162,Cygnus,19h 49m 06.9s,+43° 43′ 26″,,,,unknown,5816,unknown,2,
+Kepler-161,Lyra,19h 22m 04.0s,+43° 05′ 02″,,,,0.77,5078,unknown,2,
+Kepler-160,Lyra,19h 11m 05.7s,+42° 52′ 09″,13.1,3140,G2V,unknown,5857,unknown,2,
+Kepler-159,Cygnus,19h 48m 16.8s,+40° 52′ 08″,,,,unknown,4625,unknown,2 (1),
+Kepler-158,Lyra,18h 56m 07.7s,+39° 46′ 53″,,,,unknown,4623,unknown,2,
+Kepler-156,Lyra,19h 21m 11.2s,+37° 44′ 58″,,,,unknown,5094,unknown,2,
+Kepler-155,Cygnus,19h 13m 59.0s,+51° 04′ 55″,,,,0.58,4508,unknown,2,
+Kepler-153,Draco,18h 49m 50.5s,+48° 15′ 26″,,,,unknown,5404,unknown,2,
+Kepler-152,Lyra,19h 07m 27.7s,+41° 59′ 21″,,,,unknown,5088,unknown,2,
+Kepler-151,Cygnus,19h 28m 39.1s,+41° 01′ 24″,,,,0.83,5460,unknown,2,
+Kepler-150,Lyra,19h 12m 56.2s,+40° 31′ 15″,,,,unknown,5560,unknown,5,
+Kepler-149,Lyra,19h 03m 24.9s,+38° 23′ 03″,,,,unknown,5381,unknown,3,
+Kepler-148,Cygnus,19h 19m 08.7s,+46° 51′ 32″,,,,unknown,5272,unknown,3,
+Kepler-147,Lyra,19h 11m 54.2s,+39° 05′ 14″,,,,1.01,6012,unknown,2,
+Kepler-146,Cygnus,19h 36m 26.6s,+38° 42′ 37″,,,,unknown,5948,unknown,2,
+Kepler-144,Lyra,18h 47m 39.8s,+42° 46′ 32″,,,,1.03,6075,unknown,2,
+Kepler-143,Cygnus,19h 52m 16.3s,+49° 24′ 45″,,,,unknown,5848,unknown,2,
+Kepler-142,Cygnus,19h 40m 28.5s,+48° 28′ 53″,,,,0.99,5790,unknown,3,
+Kepler-141,Cygnus,19h 51m 53.0s,+47° 43′ 54″,,,,1,4910,unknown,2,
+Kepler-140,Lyra,19h 09m 28.7s,+46° 46′ 06″,,,,unknown,6077,unknown,2,
+Kepler-139,Lyra,18h 49m 34.1s,+43° 53′ 22″,,,,1.08,5594,unknown,2,
+Kepler-137,Lyra,18h 48m 32.5s,+43° 02′ 21″,,,,unknown,5187,unknown,2,
+Kepler-136,Cygnus,19h 45m 52.2s,+42° 35′ 56″,,,,1.2,6165,unknown,2,
+Kepler-135,Lyra,19h 21m 58.8s,+38° 47′ 44″,,,,unknown,6090,unknown,2,
+Kepler-134,Draco,18h 58m 57.4s,+49° 35′ 54″,,,,unknown,5983,unknown,2,
+Kepler-133,Cygnus,19h 49m 06.7s,+48° 19′ 13″,,,,unknown,5736,unknown,2,
+Kepler-125,Cygnus,19h 53m 01.9s,+47° 36′ 18″,,,,0.55,3810,unknown,2,
+Kepler-124,Draco,19h 07m 00.7s,+49° 03′ 54″,,,,unknown,4984,unknown,3,
+Kepler-123,Cygnus,19h 47m 59.7s,+42° 46′ 55″,,,,1.03,6089,unknown,2,
+Kepler-121,Lyra,19h 04m 38.9s,+39° 40′ 41″,,,,unknown,5311,unknown,2,
+Kepler-120,Lyra,19h 11m 34.0s,+39° 20′ 21″,,,,unknown,4096,unknown,2,
+Kepler-119,Cygnus,19h 43m 47.1s,+42° 39′ 32″,,,,unknown,5595,unknown,2,
+Kepler-118,Cygnus,19h 56m 51.2s,+41° 25′ 29″,,,,0.86,5274,unknown,2,
+Kepler-117,Cygnus,19h 15m 10.3s,+48° 02′ 25″,,,,unknown,6169,unknown,2,
+Kepler-116,Cygnus,19h 38m 58.1s,+43° 32′ 13″,,,,1.16,6142,unknown,2,
+Kepler-115,Cygnus,19h 50m 50.8s,+45° 15′ 43″,,,,1,5979,unknown,2,
+Kepler-112,Cygnus,19h 47m 55.4s,+43° 12′ 35″,,,,unknown,5544,unknown,2,
+Kepler-111,Cygnus,19h 26m 36.8s,+44° 41′ 18″,,,,unknown,5952,unknown,2,
+Kepler-110,Cygnus,19h 31m 43.0s,+48° 36′ 10″,,,,unknown,5960,unknown,2,
+Kepler-405,Lyra,19h 25m 38.3s,+38° 20′ 24″,,,,unknown,5818,unknown,2,
+Kepler-404,Lyra,19h 05m 35.7s,+45° 20′ 37″,,,,unknown,5654,unknown,2,
+Kepler-402,Lyra,19h 13m 28.9s,+43° 21′ 17″,,,,unknown,6090,unknown,4,
+Kepler-400,Lyra,19h 23m 46.7s,+40° 28′ 48″,,,,unknown,5886,unknown,2,
+Kepler-399,Cygnus,19h 58m 00.4s,+40° 40′ 15″,,,,unknown,5502,unknown,3,
+Kepler-397,Cygnus,19h 43m 34.6s,+42° 22′ 50″,,,,unknown,5307,unknown,2,
+Kepler-395,Cygnus,19h 34m 02.7s,+45° 08′ 12″,,,,0.53,4262,unknown,2,
+Kepler-394,Cygnus,19h 45m 12.5s,+50° 40′ 20″,,,,1.11,6402,unknown,2,
+Kepler-393,Cygnus,19h 23m 58.9s,+45° 11′ 32″,,,,1.32,6189,unknown,2,
+Kepler-392,Lyra,19h 14m 38.6s,+43° 22′ 05″,,,,1.13,5938,unknown,2,
+Kepler-391,Cygnus,19h 22m 29.2s,+51° 03′ 26″,,,,1.22,4940,unknown,2,
+Kepler-390,Lyra,19h 26m 30.9s,+41° 12′ 31″,,,,0.67,5166,unknown,2,
+Kepler-389,Cygnus,19h 27m 50.4s,+44° 54′ 00″,,,,0.78,5376,unknown,2,
+Kepler-388,Lyra,18h 59m 18.7s,+44° 36′ 31″,,,,0.59,4498,unknown,2,
+Kepler-387,Lyra,19h 11m 11.6s,+45° 39′ 24″,,,,1.03,5774,unknown,2,
+Kepler-386,Cygnus,19h 19m 26.1s,+48° 41′ 38″,,,,0.74,5178,unknown,2,
+Kepler-385,Cygnus,19h 37m 21.2s,+50° 20′ 12″,,,,1.09,6326,unknown,2,
+Kepler-384,Lyra,19h 04m 06.3s,+44° 46′ 58″,,,,0.76,5577,unknown,2,
+Kepler-383,Lyra,19h 25m 22.2s,+38° 21′ 47″,,,,0.67,4710,unknown,2,
+Kepler-382,Cygnus,19h 56m 32.7s,+45° 52′ 12″,,,,0.8,5600,unknown,2,
+Kepler-381,Lyra,19h 00m 43.9s,+43° 49′ 52″,,,,1.34,6152,unknown,2,
+Kepler-380,Draco,18h 49m 34.7s,+48° 45′ 33″,,,,1.05,6045,unknown,2,
+Kepler-379,Cygnus,19h 42m 48.3s,+38° 56′ 45″,,,,1.08,6054,unknown,2,
+Kepler-378,Cygnus,19h 39m 47.7s,+46° 26′ 19″,,,,0.96,4661,unknown,2,
+Kepler-377,Cygnus,19h 41m 41.3s,+38° 44′ 08″,,,,0.88,5949,unknown,2,
+Kepler-376,Lyra,19h 26m 25.7s,+38° 24′ 37″,,,,1.05,5900,unknown,2,
+Kepler-375,Cygnus,19h 14m 28.3s,+48° 05′ 54″,,,,0.89,5826,unknown,2,
+Kepler-374,Cygnus,19h 36m 33.1s,+42° 22′ 14″,,,,0.84,5977,unknown,3,
+Kepler-373,Cygnus,19h 17m 33.1s,+50° 35′ 49″,,,,0.87,5787,unknown,2,
+Kepler-372,Cygnus,19h 25m 01.5s,+49° 15′ 32″,,,,1.15,6509,unknown,3,
+Kepler-371,Cygnus,19h 29m 18.4s,+38° 39′ 27″,,2720,,0.94,5666,unknown,2,
+Kepler-370,Cygnus,19h 28m 41.1s,+40° 54′ 59″,,,,0.94,5852,unknown,2,
+Kepler-369,Cygnus,19h 34m 41.8s,+47° 54′ 30″,,,,0.54,3591,unknown,2,
+Kepler-368,Cygnus,19h 27m 31.2s,+45° 23′ 17″,,,,0.71,5502,unknown,2,
+Kepler-367,Cygnus,19h 49m 10.2s,+49° 58′ 54″,,,,0.75,4710,unknown,2,
+Kepler-366,Cygnus,19h 47m 24.5s,+49° 05′ 04″,,,,1.05,6209,unknown,2,
+Kepler-365,Cygnus,19h 42m 30.4s,+49° 07′ 50″,,,,0.99,6012,unknown,2,
+Kepler-364,Lyra,18h 46m 16.8s,+47° 23′ 55″,,,,1.2,6108,unknown,2,
+Kepler-363,Lyra,18h 52m 46.1s,+41° 18′ 19″,,,,1.23,5593,unknown,3,
+Kepler-362,Cygnus,19h 27m 05.2s,+47° 31′ 48″,,,,0.77,5788,unknown,2,
+Kepler-361,Cygnus,19h 47m 12.8s,+46° 44′ 28″,,,,1.07,6169,unknown,2,
+Kepler-360,Lyra,19h 05m 08.3s,+44° 46′ 54″,,,,0.95,6053,unknown,2,
+Kepler-359,Cygnus,19h 33m 10.5s,+42° 11′ 47″,,,,1.07,6248,unknown,3,
+Kepler-358,Cygnus,19h 32m 55.3s,+48° 16′ 53″,,,,0.95,5908,unknown,2,
+Kepler-357,Cygnus,19h 24m 58.3s,+44° 00′ 31″,,,,0.78,5036,unknown,3,
+Kepler-356,Cygnus,19h 29m 41.1s,+37° 40′ 58″,,,,0.97,6133,unknown,2,
+Kepler-355,Lyra,19h 03m 11.9s,+42° 48′ 42″,,,,1.05,6184,unknown,2,
+Kepler-354,Lyra,19h 03m 00.4s,+41° 20′ 08″,,,,0.65,4648,unknown,3,
+Kepler-353,Cygnus,19h 47m 25.6s,+41° 45′ 29″,,,,0.54,3903,unknown,2,
+Kepler-352,Cygnus,19h 59m 35.2s,+46° 03′ 07″,,,,0.79,5212,unknown,2,
+Kepler-69,Cygnus,19h 33m 03.0s,+44° 52′ 08″,13.7,2430,G4V,0.81,5638,0.4,2,
+Kepler-80,Cygnus,19h 44m 27.0s,+39° 58′ 44″,14.804,1218,M0V,0.73,4250,unknown,6,-
+Kepler-953,Cygnus,19h 15m 53.0s,+44° 37′ 28″,,,,0.94,5114,unknown,2,-
+Kepler-29,Cygnus,19h 53m 24.0s,+47° 29′ 28″,15.5,2780,G5V,1,5750,unknown,2,
+Kepler-206,Lyra,19h 26m 32.3s,+41° 50′ 02″,,,,0.94,5764,unknown,3,
+Kepler-205,Lyra,19h 01m 08.9s,+41° 51′ 40″,,,,unknown,4321,unknown,2,
+Kepler-204,Lyra,19h 01m 23.3s,+41° 45′ 43″,,,,0.96,5812,unknown,2,
+Kepler-203,Cygnus,19h 01m 23.3s,+41° 45′ 43″,,,,0.98,5821,unknown,3,
+Kepler-202,Lyra,18h 51m 53.6s,+41° 19′ 19″,,,,unknown,4668,unknown,2,
+Kepler-201,Cygnus,19h 34m 30.2s,+41° 16′ 22″,,,,1.17,6065,unknown,2,
+Kepler-200,Lyra,18h 57m 38.4s,+41° 14′ 15″,,,,unknown,5678,unknown,2,
+Kepler-199,Cygnus,19h 42m 14.3s,+40° 14′ 11″,,,,unknown,5644,unknown,2,
+Kepler-196,Lyra,18h 59m 52.4s,+42° 04′ 45″,,,,unknown,5128,unknown,2,
+Kepler-195,Cygnus,19h 12m 29.0s,+47° 58′ 00″,,,,unknown,5329,unknown,2,
+Kepler-194,Cygnus,19h 27m 53.1s,+47° 51′ 51″,,,,unknown,6089,unknown,3,
+Kepler-193,Cygnus,19h 45m 59.7s,+46° 34′ 38″,,,,unknown,6335,unknown,2,
+Kepler-190,Cygnus,19h 14m 20.2s,+44° 44′ 02″,,,,0.84,5106,unknown,2,
+Kepler-189,Lyra,19h 10m 15.5s,+44° 18′ 18″,,,,0.79,5235,unknown,2,
+Kepler-188,Lyra,18h 45m 07.1s,+44° 18′ 56″,,,,unknown,6021,unknown,2,
+Kepler-187,Cygnus,19h 59m 11.1s,+44° 05′ 22″,,,,0.85,6105,unknown,2,
+Kepler-185,Lyra,18h 49m 52.3s,+43° 53′ 24″,,,,0.79,5208,unknown,2,
+Kepler-184,Lyra,19h 27m 48.5s,+43° 04′ 29″,,,,unknown,5788,unknown,3,
+Kepler-183,Cygnus,19h 34m 07.4s,+39° 18′ 57″,,,,unknown,5888,unknown,2,
+Kepler-182,Cygnus,19h 19m 19.2s,+50° 35′ 10″,,5300,,1.14,6250,unknown,2,
+Kepler-181,Cygnus,19h 44:36.3m,+50° 05′ 45″,,,,unknown,5333,unknown,2,
+Kepler-180,Cygnus,19h 42m 17.1s,+49° 46′ 29″,,,,0.84,5731,unknown,2,
+Kepler-179,Cygnus,19h 54m 39.3s,+47° 45′ 43″,,,,unknown,5302,unknown,2,
+Kepler-178,Lyra,19h 08m 24.3s,+46° 53′ 47″,,,,unknown,5676,unknown,3,
+Kepler-336,Lyra,19h 20m 57.0s,+41° 19′ 53″,,,,0.89,5867,unknown,3,
+Kepler-335,Cygnus,19h 44m 15.4s,+45° 25′ 43″,,,,0.99,5877,unknown,2,
+Kepler-334,Lyra,19h 08m 33.8s,+47° 06′ 55″,,,,1,5828,unknown,3,
+Kepler-333,Cygnus,19h 29m 08.7s,+40° 54′ 49″,,,,0.54,4259,unknown,2,
+Kepler-332,Lyra,19h 06m 39.1s,+47° 24′ 49″,,,,0.8,4955,unknown,3,
+Kepler-331,Lyra,19h 27m 20.2s,+39° 18′ 26″,,,,0.51,4347,unknown,3,
+Kepler-330,Cygnus,19h 13m 47.4s,+44° 48′ 06″,,,,0.78,5117,unknown,2,
+Kepler-329,Cygnus,19h 57m 04.3s,+45° 13′ 39″,,,,0.53,4257,unknown,2,
+Kepler-327,Cygnus,19h 30m 34.2s,44° 05′ 16″,,,,0.55,3799,unknown,3,
+Kepler-326,Cygnus,19h 37m 18.1s,+46° 00′ 08″,,,,0.98,5105,unknown,3,
+Kepler-325,Cygnus,19h 19m 20.5s,+49° 49′ 32″,,,,0.87,5752,unknown,3,
+Kepler-324,Draco,19h 05m 53.2s,+49° 38′ 56″,,,,0.86,5194,unknown,2,
+Kepler-323,Lyra,19h 25m 31.7s,+38° 07′ 39″,,,,1.09,5987,unknown,2,
+Star,Constellation,Right,Declination,Apparent,Distance (ly),Spectral,Mass,Temperature (K),Age,Confirmed,Notes
+,,ascension,,magnitude,,type,(M☉),,(Gyr),(unconfirmed),
+,,,,,,,,,,planets,
+TOI 732,Hydra,10h 18m 35.137s,−11° 43′ 0.242″,13.14,72,M4V,0.401,3331,5,2,-
+TOI 700,Dorado,06h 28m 22.97s,−65° 34′ 43.01″,13.1,101.61,M2V,0.416,3480,1.5,3,
+TOI-125,Hydrus,01h 34m 22.73s,−66° 40′ 32.95″,11.02,363,,0.859,5320,unknown,3 (2),
+TOI-421,Lepus,05h 27m 24.83s,−14° 16′ 37.05″,9.931,244.3,G9V,0.852,5325,9.4,2,-
+HD 108236,Centaurus,12h 26m 17.89s,−51° 21′ 46.21″,9.24,211,G3V,0.97,5730,5.8,5,-
+HD 63433,Gemini,07h 49m 55.06s,+27° 21′ 47.46″,6.91,73.1,G5IV,unknown,5691.9,unknown,2,-
+TYC 8998-760-1,Musca,13h 25m 12.13s,−64° 56′ 20.69″,11.19,309.4±0.9,K3IV,unknown,4783,0.017,2,-
+HD 86226,Hydra,09h 56m 29.84s,–24° 05′ 57.8″,7.932,139±5,G2V,1.06,5903±31,1.5,2,-
+K2-19,Virgo,11h 39m 50.4804s,+00° 36′ 12.8773″,13.002,950±20,K0V,0.918,5250±70,8,3,-
+K2-3,Leo,11h 29m 20.3918s,−01° 27′ 17.280″,12.168,143.9±0.4,M0V,0.601,3835±70,1,3,-
+K2-138,Aquarius,23h 15m 47.77s,−10° 50′ 58.91″,12.21,597±55,K1V,0.93,5378±60,2.3,6,-
+Gliese 3293,Eridanus,04h 28m 35.72s,−25° 10′ 08.9″,11.96,59,M2.5V,0.42,3466±49,unknown,4,-
+Gliese 433,Hydra,11h 35m 26.9485s,−25° 10′ 08.9″,9.79,29.8±0.1,M1.5V,0.48,3550±100,unknown,3,-
+HD 192310,Capricornus,20h 15m 17.3912s,−27° 01′ 58.7121″,5.73,29.06±0.08,K2V,0.78,5069±49,8.2,2,-
+XO-2,Lynx,07h 48m 07.4814s,+50° 13′ 03.2578″,11.18,496±3,K0V+K0V,unknown,unknown,6.3,4,Binary with each star orbited by two planets
+BD–08 2823,Sextans,10h 00m 47.7206s,–09° 31′ 00.0428″,9.86,135.0±0.2,K4V,0.74,4746±63,4.5,2,-
+L 1159-16,Aries,02h 00m 12.959s,13° 03′ 07.01″,12.298,14.584 ± 0.007,M4.5V,0.15,3158,4.8,2 (1),-
+TOI-763,Centaurus,12h 57m 52.45s,−39° 45′ 27.71″,10.156,311,,0.917,5444,6.2,2 (1),-
+TOI-561,Sextans,09h 52m 44.44s,+06° 12′ 57.97″,10.252,279,,0.785,5455,5,4,-
+NY Virginis,Virgo,13h 38m 48.1466s,−02° 01′ 49.2095″,13.66,1800,B1VII+M,0.459,32740±400,unknown,2,Circumbinary planets
+TOI-776,Centaurus,11h 54m 18.39s,−37° 33′ 09.8″,11.54,88.6,M1V,0.544,3709±70,7.8,2,
+Gliese 3473,Canis Minor,08h 02m 22.88s,+03° 20′ 19.7″,12.465,89.3,M4V,0.36,3347±54,7.8,2,Orbited also by M6 dwarf LP 544–12 on wide orbit
+BD-11 4672,Scutum,18h 33m 28.8323s,−11° 38′ 09.7218″,9.99,88.7,K7V,0.651,4550±110,7.4,2,
+HD 133131,Libra,15h 03m 35.80651s,−27° 50′ 27.5520″,8.4,168,G2V+G2V,0.95,5799±19,6,3,"2 planets around primary, and 1 planet around secondary star"
+HD 113337,Draco,13h 01m 46.9272s,63° 36′ 36.7958″,6.03,118,F6V,1.48,6774±125,0.016,2,Also debris disk and two red dwarf stars on wide orbit
+HD 7449,Cetus,01h 14m 29.3222s,−05° 02′ 50.6148″,7.48,126,F9.5V,1.02,6060±42,2.2,2,Also a red dwarf star on wide orbit
+HD 156279,Draco,17h 12m 23.2036s,+63° 21′ 07.532″,8.167,118.2,K0V,0.93,5453,4,2,
+LHS 1140,Draco,00h 44m 59.31s,−15° 16′ 16.7″,14.18,48.9,M4.5,0.179,3216±39,5,2 (1),
+HD 116029,Coma Berenices,13h 20m 39.5422s,+24° 38′ 55.3099″,7.89,402,K1IV,1.445,4894±36,2.7,2,
+HD 99706,Ursa Major,11h 28m 30.2137s,+43° 57′ 59.6854″,7.65,480,K0IV,1.46,4862,2.8,2,
+Gliese 1148,Ursa Major,11h 41m 44.6360s,+42° 45′ 07.1048″,13.795,35.94,M4Ve,0.34,3190,unknown,2,
+K2-229,Virgo,12h 27m 29.5848s,−06° 43′ 18.7660″,10.985,335,K2V,0.837,5185,5.4,3,
+HD 216520,Cepheus,22h 47m 31.8765s,83° 41′ 49.2993″,7.53,63.78,K0V,0.82,5103±20,6.7,2,
+CD-23 12010,Libra,15h 00m 29.4845s,−24° 27′ 14.6952″,9.937,89.73,K7V,unknown,unknown,unknown,2,Also called TOI-836
+EPIC 201085153,Virgo,12h 00m 29.4845s,−7° 7′ 48″,17.33,,,unknown,3945±386,unknown,2 (1),
+K2-299,Aquarius,22h 05m 06.5342s,−14° 07′ 18.0135″,13.12,1220,,unknown,5724±72,unknown,3,
+K2-301,Aquarius,22h 30m 03.2610s,−13° 36′ 36.4159″,16.74,1491,,unknown,4114±99,unknown,2,
+TOI-942,Lepus,05h 06m 35.91s,−20° 14′ 44.21″,11.98,498,,0.788,4928+125,unknown,2,
+,,,,,,,,−85,,,
+K2-302,Aquarius,22h 20m 22.7764s,−09° 30′ 34.2934″,11.98,359.3,,unknown,3297±73,unknown,3,
+K2-183,Cancer,08h 20m 01.7184s,14° 01′ 10.0711″,12.85,1083,,unknown,5482±50,unknown,3,
+K2-187,Cancer,08h 50m 05.6682s,23° 11′ 33.3712″,12.864,1090,G,0.967,5438±63,unknown,4,
+EPIC 212624936,Virgo,14h 02m 29.4565s,−10° 02′ 01.0610″,11.3,,,unknown,5765±170,unknown,2,
+K2-211,Cetus,01h 24m 25.4278s,01° 42′ 17.8335″,13.07,894,,0.882,5360±51,unknown,2,
+K2-282,Pisces,00h 53m 43.6833s,07° 59′ 43.1397″,14.04,1638,,0.94,5499±109,unknown,3,
+K2-223,Virgo,12h 21m 13.4762s,−10° 16′ 55.2962″,11.43,651.3,,1.06,5859±50,unknown,2,
+K2-106,Pisces,00h 52m 19.1416s,10° 47′ 40.9037″,12.1,803,,0.95,5613±39,unknown,2,
+Pr0211,Cancer,08h 42m 11.4988s,19° 16′ 37.2396″,12.143,599,G9V,0.935,5300±30,0.79,2,
+Gliese 180,Eridanus,04h 53m 49.9798s,−17° 46′ 24.294″,10.894,40.3,M2V,0.39,3562,unknown,3,
+Gliese 414 [nl],Ursa Major,11h 11m 05.17s,30° 26′ 45.66″,9.67,38.79,K7V,0.65,4120±109,12.4,2,"Binary star system, planets orbiting primary Gliese 414A"
+Gliese 2056,Canis Major,07h 12m 04.81s,−24° 53′ 31.49″,10.38,92.8,M0V,0.62,unknown,unknown,2,
+HD 25723,Eridanus,04h 04m 22.72s,−12° 47′ 32.27″,5.611,92.8,K1III,2.1,unknown,unknown,2,Giant star host
+AU Microscopii,Microscopium,20h 45m 09.53s,–31° 20′ 27.24″,8.73,32.3,M1V,0.5,3700±100,0.022,2,Dust disk in system
+K2-38,Scorpius,16h 00m 08.06s,−23° 11′ 21.33″,11.34,630,,1.03,5731±66,unknown,2 (1),Dust disk in system
+TOI-178,Canis Major,00h 29m 12.30s,30° 27′ 13.46″,11.95,205.16,K,0.65,4316±70,7.1,6,
